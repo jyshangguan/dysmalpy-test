@@ -8,7 +8,7 @@ Dynamical Simulation and Modeling Algorithm
 .. image:: docs/_static/dpy_logo_spiral/DPy_h_blk_wh.png
    :alt: DPy Logo
 
-DYSMALPY website: https://www.mpe.mpg.de/resources/IR/DYSMALPY/
+**The original DYSMALPY website:** https://www.mpe.mpg.de/resources/IR/DYSMALPY/
 
 DysmalPy (DYnamical Simulation and Modelling ALgorithm in PYthon) is a 
 Python-based forward modeling code designed for analyzing galaxy kinematics. 
