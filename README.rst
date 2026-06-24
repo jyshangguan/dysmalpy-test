@@ -22,7 +22,8 @@ improvements described by `Wuyts et al. 2016`_; `Lang et al. 2017`_; `Genzel et 
 `Übler et al. 2018`_. Its Python incarnation and latest developments and
 testing are presented by `Price et al. 2021`_ and `Lee et al. 2025`_.
 
-## warning
+##Warning
+
    **Experimental JAX Version:** The current version (2.0+) uses JAX-accelerated
    computation for GPU speedup. This is an **experimental implementation** and may
    have numerical differences from the stable Cython-based version. For production
